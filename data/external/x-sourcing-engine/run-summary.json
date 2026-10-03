@@ -1,0 +1,148 @@
+{
+  "billing_reconciled": false,
+  "broad": {
+    "actionable_posts": 187,
+    "aggregate_seven_day_count": 1486,
+    "analyst_adjudicated_projects": 153,
+    "artifact_bearing_posts": 851,
+    "count_preflight_requests": 20,
+    "cross_run_duplicates_removed": 26,
+    "direct_builder_claims": 190,
+    "engine_consolidated_projects": 159,
+    "estimated_activity_usd": "7.720",
+    "estimated_unused_allowance_usd": "17.280",
+    "net_new_posts": 1166,
+    "passing_tests_original_engine": 450,
+    "posts_matched_multiple_queries": 68,
+    "profiles_enriched": 14,
+    "profiles_returned": 14,
+    "query_families": 20,
+    "retrieval_http_requests": 25,
+    "returned_post_resources": 1279,
+    "strict_level_a_posts": 737,
+    "total_allowance_usd": "25.000",
+    "unique_authors": 967,
+    "within_run_duplicates_removed": 70
+  },
+  "final_selection": "human",
+  "headline_metrics": [
+    {
+      "key": "net_new_posts",
+      "label": "Net-new Posts",
+      "note": "Net-new Posts after within-run and cross-run deduplication.",
+      "value": 1166
+    },
+    {
+      "key": "unique_authors",
+      "label": "Unique authors",
+      "note": "Distinct post authors across the broad run.",
+      "value": 967
+    },
+    {
+      "key": "direct_builder_claims",
+      "label": "Direct-builder claims",
+      "note": "Posts attributed to the actual builder, not commentary or third-party reporting.",
+      "value": 190
+    },
+    {
+      "key": "artifact_bearing_posts",
+      "label": "Posts with product-artifact links",
+      "note": "Posts carrying at least one external product-artifact link. A Post count, not a company count. This is broader than the strict verified Level A standard.",
+      "value": 851
+    },
+    {
+      "key": "strict_level_a_posts",
+      "label": "Strict verified Level A Posts",
+      "note": "Posts that met the strict verified Level A standard (has_level_a true). A subset of the 851 Posts with product-artifact links.",
+      "value": 737
+    },
+    {
+      "key": "actionable_posts",
+      "label": "Actionable Posts",
+      "note": "Posts passing attribution and artifact checks.",
+      "value": 187
+    },
+    {
+      "key": "analyst_adjudicated_projects",
+      "label": "Projects after analyst adjudication",
+      "note": "Projects after final analyst adjudication, not incorporated startups. The deterministic pipeline produced 159 engine-consolidated actionable projects before adjudication.",
+      "value": 153
+    },
+    {
+      "key": "profiles_enriched",
+      "label": "Enriched profiles",
+      "note": "Shortlisted profiles enriched. Not a count of funded companies.",
+      "value": 14
+    },
+    {
+      "key": "estimated_activity_usd",
+      "label": "Estimated activity (USD)",
+      "note": "Estimated API activity. Not reconciled against the external Developer Console.",
+      "value": "7.720"
+    },
+    {
+      "key": "estimated_remaining_usd",
+      "label": "Estimated remaining (USD)",
+      "note": "Unused portion of the USD 25.000 estimated allowance.",
+      "value": "17.280"
+    },
+    {
+      "key": "passing_tests",
+      "label": "Original engine tests",
+      "note": "Passing tests in the original private engine repository.",
+      "value": 450
+    }
+  ],
+  "llm_in_classification_or_disposition": false,
+  "metric_notes": {
+    "analyst_adjudicated_projects": "Projects after final analyst adjudication (153). Not a count of incorporated startups. The deterministic pipeline produced 159 engine-consolidated actionable projects before adjudication. See the metrics reconciliation.",
+    "artifact_bearing_posts": "Posts with external product-artifact links (851). This is a Post count, not a company count, and is broader than the strict verified Level A standard. 737 Posts met the strict verified Level A standard. See the metrics reconciliation.",
+    "estimated_activity_usd": "Estimated API activity. Not reconciled against the external Developer Console.",
+    "net_new_posts": "Net-new Posts after within-run and cross-run deduplication.",
+    "profiles_enriched": "Shortlisted profiles enriched. Not a count of funded companies.",
+    "returned_post_resources": "Returned Post resources, not unique Posts.",
+    "strict_level_a_posts": "Posts that met the strict verified Level A standard with has_level_a true (737). A stricter subset of the 851 Posts with external product-artifact links."
+  },
+  "official_api_used": true,
+  "official_endpoints": [
+    {
+      "method": "GET",
+      "purpose": "Recent search over the seven-day window.",
+      "url": "https://api.x.com/2/tweets/search/recent"
+    },
+    {
+      "method": "GET",
+      "purpose": "Count preflight to size volume before any retrieval.",
+      "url": "https://api.x.com/2/tweets/counts/recent"
+    },
+    {
+      "method": "GET",
+      "purpose": "Selective profile enrichment for shortlisted authors.",
+      "url": "https://api.x.com/2/users"
+    }
+  ],
+  "pilot": {
+    "direct_builder_claims": 30,
+    "estimated_activity_usd": "1.085",
+    "keep_for_enrichment": 22,
+    "keep_verified": 7,
+    "level_a_artifact_posts": 20,
+    "profiles_enriched": 11,
+    "query_families": 6,
+    "retained_leads": 29,
+    "returned_post_resources": 177,
+    "sourcing_lanes": 3,
+    "unique_authors": 146,
+    "unique_posts": 176
+  },
+  "provenance": {
+    "generated_at": "2026-07-22T17:41:36Z",
+    "note": "Generated from saved completed-run outputs by build_sanitized_demo_data.py.",
+    "source_file": "global_metrics.json, processing_summary.json, cost ledgers",
+    "transform_version": "1.0.0"
+  },
+  "recent_search_window_days": 7,
+  "replay_notice": "Replay mode: this demo uses saved outputs from the completed sourcing run and does not initiate new X API requests.",
+  "scraping_used": false,
+  "searched_entire_market": false
+}

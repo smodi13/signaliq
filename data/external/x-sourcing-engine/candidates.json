@@ -1,0 +1,4626 @@
+{
+  "candidates": [
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://omninode.ai/signup"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 1,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "omninode",
+      "post_url": "https://x.com/i/web/status/2077034998784233598",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 57,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "omninode",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/Danau5tin/ai-trains-ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 2,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "ai-trains-ai",
+      "post_url": "https://x.com/i/web/status/2077014309297684781",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 57,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "ai-trains-ai",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://astro-open-safety-layer.vercel.app",
+        "https://github.com/dive-8978/astro-open-safety-layer"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 3,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "astro-open-safety-layer",
+      "post_url": "https://x.com/i/web/status/2079082387473052004",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 57,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "astro-open-safety-layer",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://discoverdsl.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 4,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "medium",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "discoverdsl",
+      "post_url": "https://x.com/i/web/status/2077381691975270820",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 57,
+      "sector_bucket": "cybersecurity",
+      "slug": "discoverdsl",
+      "source_queries": [
+        "q09_non_ai_cybersecurity"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/leeguooooo/AgentParty"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 5,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "agentparty",
+      "post_url": "https://x.com/i/web/status/2078875020055744901",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 56,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "agentparty",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "documentation"
+      ],
+      "artifact_urls": [
+        "https://falconbuilder.dev/docs/mcp"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 6,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "falconbuilder",
+      "post_url": "https://x.com/i/web/status/2077041482872025524",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 56,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "falconbuilder",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://fde-team.polsia.app"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 7,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "fde-team",
+      "post_url": "https://x.com/i/web/status/2077101107709727132",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 54,
+      "sector_bucket": "ai_application_software",
+      "slug": "fde-team",
+      "source_queries": [
+        "q03_ai_workflow_traction"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/Hash-7777/HashCortX"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 9,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "hashcortx",
+      "post_url": "https://x.com/i/web/status/2076712797870678118",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 53,
+      "sector_bucket": "ai_application_software",
+      "slug": "hashcortx",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://lckd.tech/token/3yEHYto1Bv4npUuTA6dMHsraaWd4c837noBVt1ZmMaqR"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 10,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "lckd",
+      "post_url": "https://x.com/i/web/status/2078327732421992485",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 53,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "lckd",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://us.token61.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 11,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "medium",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "us",
+      "post_url": "https://x.com/i/web/status/2077571547758461345",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 53,
+      "sector_bucket": "fintech_software",
+      "slug": "us",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://solanagames.app"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 12,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "solanagames",
+      "post_url": "https://x.com/i/web/status/2077434897031983563",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 53,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "solanagames",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/Anthony-Pan/acorn"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 13,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "acorn",
+      "post_url": "https://x.com/i/web/status/2077368231170310405",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 53,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "acorn",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://nkavo.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 14,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "nkavo",
+      "post_url": "https://x.com/i/web/status/2076948153052299630",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 53,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "nkavo",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://aiagentstore.ai/ai-agent-news/this-week"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 15,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "aiagentstore",
+      "post_url": "https://x.com/i/web/status/2078919179957063719",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "aiagentstore",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/flynn33/forge-conductor"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 16,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "forge-conductor",
+      "post_url": "https://x.com/i/web/status/2078803987323629958",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "forge-conductor",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/Open-Dev-Society/kitbash"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 17,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "kitbash",
+      "post_url": "https://x.com/i/web/status/2078796494082355697",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "kitbash",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/Adilmohd04/devlpulse"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 18,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "devlpulse",
+      "post_url": "https://x.com/i/web/status/2078367628775879042",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "devlpulse",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://amiainative.dev/en/compound-v"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 19,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "amiainative",
+      "post_url": "https://x.com/i/web/status/2078236994321207462",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "amiainative",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/CairnRemembers/cairn"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 20,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "cairn",
+      "post_url": "https://x.com/i/web/status/2077934755803189633",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "cairn",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://conduid.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 21,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "conduid",
+      "post_url": "https://x.com/i/web/status/2077868376676810755",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "conduid",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://mcpize.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 23,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "mcpize",
+      "post_url": "https://x.com/i/web/status/2077791355279941853",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "mcpize",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "http://agentprep.dev"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 24,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "agentprep",
+      "post_url": "https://x.com/i/web/status/2077712471037559000",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "agentprep",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "api_page"
+      ],
+      "artifact_urls": [
+        "https://2aran.com/api/mcp/articles"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 25,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "2aran",
+      "post_url": "https://x.com/i/web/status/2077644910191411653",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "2aran",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository",
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/lancekrogers/tcount",
+        "https://github.com/lancekrogers/festival"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 26,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "tcount",
+      "post_url": "https://x.com/i/web/status/2077493550082883945",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "tcount",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/vvitovec/codex-orchestration"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 27,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "codex-orchestration",
+      "post_url": "https://x.com/i/web/status/2077293446247694582",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "codex-orchestration",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/brainsparker/MCP-Profiles"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 28,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "mcp-profiles",
+      "post_url": "https://x.com/i/web/status/2077082948008898782",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "mcp-profiles",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/itsthelore/rac-core"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 29,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "rac-core",
+      "post_url": "https://x.com/i/web/status/2076751673867829591",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "rac-core",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "technical_specification"
+      ],
+      "artifact_urls": [
+        "https://specbuddy.dev"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 30,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "specbuddy",
+      "post_url": "https://x.com/i/web/status/2078113761777291465",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_application_software",
+      "slug": "specbuddy",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/cgchiraggupta/pocketcode"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 31,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "pocketcode",
+      "post_url": "https://x.com/i/web/status/2076980835203563587",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 52,
+      "sector_bucket": "ai_application_software",
+      "slug": "pocketcode",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://herox.com/storagedesignSTEP-prize"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 32,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "herox",
+      "post_url": "https://x.com/i/web/status/2078144478783668303",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 51,
+      "sector_bucket": "climate_energy",
+      "slug": "herox",
+      "source_queries": [
+        "q16_energy_and_climate_hardware"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://academia.edu"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 33,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "academia",
+      "post_url": "https://x.com/i/web/status/2077752235694670213",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 51,
+      "sector_bucket": "climate_energy",
+      "slug": "academia",
+      "source_queries": [
+        "q15_semiconductors_photonics_sensors",
+        "q16_energy_and_climate_hardware"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "http://cv.somosvelora.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 34,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "medium",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "cv",
+      "post_url": "https://x.com/i/web/status/2077750157064405329",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 50,
+      "sector_bucket": "fintech_software",
+      "slug": "cv",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://diamondweb.gumroad.com/l/cavvu"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 35,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "diamondweb",
+      "post_url": "https://x.com/i/web/status/2078800708909121865",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 50,
+      "sector_bucket": "ai_application_software",
+      "slug": "diamondweb",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://guildof.one"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 36,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "guildof",
+      "post_url": "https://x.com/i/web/status/2078745567170109610",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 50,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "guildof",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://hexicalai.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 37,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "hexicalai",
+      "post_url": "https://x.com/i/web/status/2077237416545628555",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 50,
+      "sector_bucket": "ai_application_software",
+      "slug": "hexicalai",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository",
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://github.com/XaidenLabs/WC-2026-HACKATHON/tree/track-trader",
+        "https://txagent-lime.vercel.app"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 38,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "wc-2026-hackathon",
+      "post_url": "https://x.com/i/web/status/2077520097455808857",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 50,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "wc-2026-hackathon",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://themonogram.cz/en"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 39,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "themonogram",
+      "post_url": "https://x.com/i/web/status/2079116233744560373",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 49,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "themonogram",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://nickboan.au/posts/welcome"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 41,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "nickboan",
+      "post_url": "https://x.com/i/web/status/2079029857678459022",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 49,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "nickboan",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://radosgw-admin.nycanshu.dev",
+        "https://npmjs.com/package/radosgw-admin"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 42,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "radosgw-admin",
+      "post_url": "https://x.com/i/web/status/2078172743548457109",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 49,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "radosgw-admin",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://zora.co/coin/base:0x4a08a2d467d6722d522e440eabd82d68e0b074e8?referrer=0x4ace2aec251bb66b9f192c0cfa491eb903eaba3f"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 43,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "zora",
+      "post_url": "https://x.com/i/web/status/2077821119646613669",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 49,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "zora",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://make.com/en"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 44,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "make",
+      "post_url": "https://x.com/i/web/status/2077274872862917000",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 49,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "make",
+      "source_queries": [
+        "q08_non_ai_devtools_data"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://sellwithboost.com/startups/geppetto"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 45,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "sellwithboost",
+      "post_url": "https://x.com/i/web/status/2077801730658422895",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 49,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "sellwithboost",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://kripanshu.me"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 46,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "unclear",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "kripanshu",
+      "post_url": "https://x.com/i/web/status/2077019277455241721",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 49,
+      "sector_bucket": "mixed",
+      "slug": "kripanshu",
+      "source_queries": [
+        "q20_cross_sector_founder_transition"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://blog.devgenius.io/i-built-an-mcp-server-in-200-lines-of-go-and-claude-became-10x-more-useful-5352546a48cb?source=social.tw"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 47,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "blog",
+      "post_url": "https://x.com/i/web/status/2079202586947617021",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "blog",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/h-kazuki-pixel/release-announcer-mcp"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 49,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "release-announcer-mcp",
+      "post_url": "https://x.com/i/web/status/2079143274523369707",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "release-announcer-mcp",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/nrkoka786/synapse"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 50,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "synapse",
+      "post_url": "https://x.com/i/web/status/2078920144554762394",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "synapse",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/benedya/octoquery"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 51,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "octoquery",
+      "post_url": "https://x.com/i/web/status/2078901348406313009",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "octoquery",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://lokuli.com/mcp"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 52,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "lokuli",
+      "post_url": "https://x.com/i/web/status/2078661105669566855",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "lokuli",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://lnkd.in/gsS3nT_4",
+        "https://lnkd.in/gBRZE_u6"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 53,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "lnkd",
+      "post_url": "https://x.com/i/web/status/2078556843916595536",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "lnkd",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://energy-mcp.getbrechtai.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 54,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "energy-mcp",
+      "post_url": "https://x.com/i/web/status/2078214194999033976",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "energy-mcp",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://attago.bid"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 55,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "attago",
+      "post_url": "https://x.com/i/web/status/2077883665019748525",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "attago",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://dynotable.com/blog/building-dynamodb-mcp-server"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 56,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "dynotable",
+      "post_url": "https://x.com/i/web/status/2077863146727805073",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_infrastructure",
+      "slug": "dynotable",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/gotoplanb/conduct"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 57,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "conduct",
+      "post_url": "https://x.com/i/web/status/2079176731181678700",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "conduct",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/SirAllap/agentglass"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 58,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "agentglass",
+      "post_url": "https://x.com/i/web/status/2079000655273054509",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "agentglass",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://everydev.ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 59,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "everydev",
+      "post_url": "https://x.com/i/web/status/2078864948596478040",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "everydev",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/maheshaggarwal21/raphael"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 60,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "raphael",
+      "post_url": "https://x.com/i/web/status/2078527475198382588",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "raphael",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://portal.qualityclouds.ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 61,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "portal",
+      "post_url": "https://x.com/i/web/status/2078487781702012999",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "portal",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/gowtham-ponnana/nexus-continuity"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 62,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "nexus-continuity",
+      "post_url": "https://x.com/i/web/status/2078445164688027701",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "nexus-continuity",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "third_party_platform_link",
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://youtube.com/watch?v=0vphxNt4wyk&feature=youtu.be",
+        "https://github.com/adewale/skill-eval-harness"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 63,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "skill-eval-harness",
+      "post_url": "https://x.com/i/web/status/2078428975848697912",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "skill-eval-harness",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/kfeng209-oss/cognitive-ux/blob/main/docs/case-studies/ecommerce-checkout.md"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 64,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "cognitive-ux",
+      "post_url": "https://x.com/i/web/status/2078389929349169529",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "cognitive-ux",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://ashnik.com/let-njs-build-your-ai-gateway-using-nginx"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 65,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "ashnik",
+      "post_url": "https://x.com/i/web/status/2078336466296684826",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "ashnik",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://tokentelemetry.com",
+        "https://github.com/VasiHemanth/grok-build-plugin"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 66,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "tokentelemetry",
+      "post_url": "https://x.com/i/web/status/2078194506978271608",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "tokentelemetry",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://skills.sh",
+        "https://github.com/arsyadal/migration-guard"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 67,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "skills",
+      "post_url": "https://x.com/i/web/status/2078044805423378528",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "skills",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/dax8it/agentic-shell-safety-hook"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 68,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "agentic-shell-safety-hook",
+      "post_url": "https://x.com/i/web/status/2077933237049892874",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "agentic-shell-safety-hook",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/shuntonakamura0602/issue-to-plan"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 70,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "issue-to-plan",
+      "post_url": "https://x.com/i/web/status/2077645907051585804",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "issue-to-plan",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/czxxxczx73-cell/chat-session-managers"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 71,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "chat-session-managers",
+      "post_url": "https://x.com/i/web/status/2077597292492705824",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "chat-session-managers",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/peterintech/nosleepp"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 72,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "nosleepp",
+      "post_url": "https://x.com/i/web/status/2077522788882018621",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "nosleepp",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository",
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://github.com/SunnyDavid144/kiro-remote-bridge",
+        "https://davidobajemu.com/work/kiro-remote-bridge"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 73,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "kiro-remote-bridge",
+      "post_url": "https://x.com/i/web/status/2077519098167136458",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "kiro-remote-bridge",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/nkzw-tech/codiff"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 75,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "codiff",
+      "post_url": "https://x.com/i/web/status/2077372988148597217",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "codiff",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://theagencyfund.substack.com/p/data-observability-in-whatsapp-services"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 76,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "theagencyfund",
+      "post_url": "https://x.com/i/web/status/2077355050121245165",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "theagencyfund",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/ovenmakemeheat/windhawk-taskbar-ai-usage"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 77,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "windhawk-taskbar-ai-usage",
+      "post_url": "https://x.com/i/web/status/2077325403694493717",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "windhawk-taskbar-ai-usage",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/zaingz/coding-quality-loop"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 78,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "coding-quality-loop",
+      "post_url": "https://x.com/i/web/status/2077309764602593429",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "coding-quality-loop",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/rmyndharis/aimhooman"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 79,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "medium",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "aimhooman",
+      "post_url": "https://x.com/i/web/status/2077270522115809281",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "vertical_saas",
+      "slug": "aimhooman",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/gsl0001/Cortex"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 80,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "cortex",
+      "post_url": "https://x.com/i/web/status/2077264980970488009",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "cortex",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/mm7894215/TokenTracker"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 81,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "tokentracker",
+      "post_url": "https://x.com/i/web/status/2077211214988632102",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "tokentracker",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://cognisafe.uk"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 82,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "cognisafe",
+      "post_url": "https://x.com/i/web/status/2077087703590371755",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "cognisafe",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://datalab.to/blog/introducing-forge-evals"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 83,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "datalab",
+      "post_url": "https://x.com/i/web/status/2077075929621295374",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "datalab",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "regulatory_certification"
+      ],
+      "artifact_urls": [
+        "https://usediffdash.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 84,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "usediffdash",
+      "post_url": "https://x.com/i/web/status/2077040046620934177",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "usediffdash",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/TargiX/vibevac"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 85,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "vibevac",
+      "post_url": "https://x.com/i/web/status/2077030497193193666",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "vibevac",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/dakshgulecha/rewind-ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 86,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "rewind-ai",
+      "post_url": "https://x.com/i/web/status/2076978842452000787",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "ai_application_software",
+      "slug": "rewind-ai",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://twofounderstalk.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 87,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "medium",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "twofounderstalk",
+      "post_url": "https://x.com/i/web/status/2077843039427420651",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 48,
+      "sector_bucket": "non_ai_b2b_saas",
+      "slug": "twofounderstalk",
+      "source_queries": [
+        "q06_b2b_saas_launch"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://sitegoat.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 89,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "sitegoat",
+      "post_url": "https://x.com/i/web/status/2077154289856717219",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 47,
+      "sector_bucket": "medical_device",
+      "slug": "sitegoat",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": [
+        "What is the actual regulatory/clinical status (submission vs approval)?"
+      ]
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://aurasync-ai.site.accio.ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 90,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "aurasync-ai",
+      "post_url": "https://x.com/i/web/status/2079221729428189235",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "medical_device",
+      "slug": "aurasync-ai",
+      "source_queries": [
+        "q01_ai_infra_artifact",
+        "q05_ai_hardware"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "product_website"
+      ],
+      "artifact_urls": [
+        "http://agentharbor.one",
+        "http://agentharbor.one"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 91,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "agentharbor",
+      "post_url": "https://x.com/i/web/status/2078668713096560891",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "agentharbor",
+      "source_queries": [
+        "q01_ai_infra_artifact",
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "github_repository"
+      ],
+      "artifact_urls": [
+        "https://github.com/Dasmat13/kubecorrelate"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 92,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "kubecorrelate",
+      "post_url": "https://x.com/i/web/status/2079192121630916782",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "industrial_manufacturing",
+      "slug": "kubecorrelate",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://pitchnest.app"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 95,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "pitchnest",
+      "post_url": "https://x.com/i/web/status/2079220482356715704",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "pitchnest",
+      "source_queries": [
+        "q05_ai_hardware",
+        "q15_semiconductors_photonics_sensors"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://voxel51.com/blog/fiftyone-autonomous-driving-plugin?hss_channel=tw-2024885391179001856"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 97,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "voxel51",
+      "post_url": "https://x.com/i/web/status/2079114115742585007",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "voxel51",
+      "source_queries": [
+        "q05_ai_hardware",
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://eva-protocol.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 101,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "eva-protocol",
+      "post_url": "https://x.com/i/web/status/2079206190685319352",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "eva-protocol",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://botflix.tv"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 102,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "botflix",
+      "post_url": "https://x.com/i/web/status/2078291108019245166",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "botflix",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://driftguard-1782867485944-we7j.polsia.app"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 103,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "driftguard-1782867485944-we7j",
+      "post_url": "https://x.com/i/web/status/2078019330718220385",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "driftguard-1782867485944-we7j",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://agentledger-7.polsia.app"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 104,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "agentledger-7",
+      "post_url": "https://x.com/i/web/status/2077947013107417573",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "agentledger-7",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://bitrise.io/blog/post/how-we-built-a-coding-agent-that-lives-in-slack-and-the-recipe-to-build-your-own"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 105,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "bitrise",
+      "post_url": "https://x.com/i/web/status/2077738259510153227",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "bitrise",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://kinematos.polsia.app"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 106,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "kinematos",
+      "post_url": "https://x.com/i/web/status/2077650304787738758",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "kinematos",
+      "source_queries": [
+        "q14_robotics_and_drones"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://en.myir.cn/TechnologySharing/158.html"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 108,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "en",
+      "post_url": "https://x.com/i/web/status/2079005723267354818",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "en",
+      "source_queries": [
+        "q15_semiconductors_photonics_sensors"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://aistockmarketimpacts.com/what-could-break-our-read.html"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 109,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "aistockmarketimpacts",
+      "post_url": "https://x.com/i/web/status/2078468331879776338",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "aistockmarketimpacts",
+      "source_queries": [
+        "q15_semiconductors_photonics_sensors"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://gibosensor.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 110,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "gibosensor",
+      "post_url": "https://x.com/i/web/status/2078132373523247347",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "gibosensor",
+      "source_queries": [
+        "q15_semiconductors_photonics_sensors"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://newsroom.arm.com/blog/inside-arms-transition-from-ip-to-silicon"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 111,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "newsroom",
+      "post_url": "https://x.com/i/web/status/2077827227194999088",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "newsroom",
+      "source_queries": [
+        "q15_semiconductors_photonics_sensors"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://semianalysis.com/chipbook"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 112,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "semianalysis",
+      "post_url": "https://x.com/i/web/status/2076773821428703307",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "semianalysis",
+      "source_queries": [
+        "q15_semiconductors_photonics_sensors"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "live_demo"
+      ],
+      "artifact_urls": [
+        "https://thequantuminsider.com/2026/07/09/diraq-demonstrates-scaled-foundry-fabricated-silicon-based-qubit-array-made-at-imec"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 113,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "thequantuminsider",
+      "post_url": "https://x.com/i/web/status/2076698289307889753",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "thequantuminsider",
+      "source_queries": [
+        "q15_semiconductors_photonics_sensors"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self_organization",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "http://gmic.ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 114,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "moderate",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "gmic",
+      "post_url": "https://x.com/i/web/status/2077076545475338428",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 46,
+      "sector_bucket": "medical_device",
+      "slug": "gmic",
+      "source_queries": [
+        "q19_consumer_hardware"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://thecodeman.net/ai-in-dotnet-starter-kit"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 115,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "thecodeman",
+      "post_url": "https://x.com/i/web/status/2077310158665908641",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "thecodeman",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://clarityintel.io"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 117,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "clarityintel",
+      "post_url": "https://x.com/i/web/status/2076961811468009712",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "clarityintel",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://shadowcraft41.gumroad.com/l/stqlrk"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 118,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "shadowcraft41",
+      "post_url": "https://x.com/i/web/status/2079174602761367718",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "shadowcraft41",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://alexdevtools.gumroad.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 120,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "alexdevtools",
+      "post_url": "https://x.com/i/web/status/2078771961660866918",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "alexdevtools",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://marketplace.visualstudio.com/items?itemName=masskrdjn.codeslice-ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 122,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "marketplace",
+      "post_url": "https://x.com/i/web/status/2078571464425411003",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "marketplace",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://mdmaker.borinef.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 125,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "mdmaker",
+      "post_url": "https://x.com/i/web/status/2078293680402596243",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "mdmaker",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://glaforge.dev/posts/2026/07/16/selfware-building-my-own-text-editor-without-knowing-swift"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 126,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "glaforge",
+      "post_url": "https://x.com/i/web/status/2077775039769038887",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "glaforge",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://engraphis.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 127,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "engraphis",
+      "post_url": "https://x.com/i/web/status/2077608243950424252",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "engraphis",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://metulon.com/apps/netcheck",
+        "https://apps.apple.com/us/app/netcheck-menu-bar-monitor/id6777047408?mt=12"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 128,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "metulon",
+      "post_url": "https://x.com/i/web/status/2077329409162559584",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "metulon",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://kubayaxi.cn"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 129,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "kubayaxi",
+      "post_url": "https://x.com/i/web/status/2077303947422027894",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "kubayaxi",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://aicmohq.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 130,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "aicmohq",
+      "post_url": "https://x.com/i/web/status/2077121431671087238",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "aicmohq",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "live_demo"
+      ],
+      "artifact_urls": [
+        "https://metrixapp.ca"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 131,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "metrixapp",
+      "post_url": "https://x.com/i/web/status/2077093981180334466",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "metrixapp",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://runagain.ai"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 132,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "runagain",
+      "post_url": "https://x.com/i/web/status/2077019805970747411",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "runagain",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://metallicmediagroup.com/blog/exit-0-is-not-evidence"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 133,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "metallicmediagroup",
+      "post_url": "https://x.com/i/web/status/2076831573085716959",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "metallicmediagroup",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://agentsproof.dev"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 134,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "agentsproof",
+      "post_url": "https://x.com/i/web/status/2076766106656883102",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "agentsproof",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://runtimevault.dev"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 135,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "runtimevault",
+      "post_url": "https://x.com/i/web/status/2076763202617032873",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "ai_application_software",
+      "slug": "runtimevault",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://itnext.io/building-tools-to-manage-cross-cutting-concerns-in-kubernetes-by-using-confighub-6bd64afcdd69"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 145,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "high",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "itnext",
+      "post_url": "https://x.com/i/web/status/2076698878292939158",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "developer_infrastructure",
+      "slug": "itnext",
+      "source_queries": [
+        "q02_ai_devtools_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://myplots.com"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 146,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "unclear",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "myplots",
+      "post_url": "https://x.com/i/web/status/2078633058115485802",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 44,
+      "sector_bucket": "mixed",
+      "slug": "myplots",
+      "source_queries": [
+        "q20_cross_sector_founder_transition"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website",
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://hyperliquid.goldrush.dev",
+        "https://dex.goldrush.dev"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 148,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "unclear",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "hyperliquid",
+      "post_url": "https://x.com/i/web/status/2079203554259263815",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 43,
+      "sector_bucket": "mixed",
+      "slug": "hyperliquid",
+      "source_queries": [
+        "q20_cross_sector_founder_transition"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://artifacta.io"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 150,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "artifacta",
+      "post_url": "https://x.com/i/web/status/2079135672653484505",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 42,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "artifacta",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://jasonbelnick.com/writing/keep-local-ai-lab-clean-with-concurrent-workflows?social=2"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 151,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "jasonbelnick",
+      "post_url": "https://x.com/i/web/status/2077533907747057966",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 42,
+      "sector_bucket": "hardware_deeptech",
+      "slug": "jasonbelnick",
+      "source_queries": [
+        "q01_ai_infra_artifact"
+      ],
+      "unresolved_questions": []
+    },
+    {
+      "actor_project_relation": "self",
+      "announcement_attribution": "direct_builder_claim",
+      "artifact_owner_scope": "unregistered",
+      "artifact_types": [
+        "product_website"
+      ],
+      "artifact_urls": [
+        "https://grid-defense-td1.bohdanz.chatgpt.site"
+      ],
+      "broad_market_relevance": "in_scope",
+      "candidate_rank": 152,
+      "company_status": "Verified public artifact",
+      "evidence_levels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "general_venture_attractiveness": "low",
+      "headline_mandate_fit": "low",
+      "is_featured": false,
+      "lead_disposition": "keep_verified",
+      "name": "grid-defense-td1",
+      "post_url": "https://x.com/i/web/status/2077349754493677703",
+      "reason_codes": [
+        "BROAD_MARKET_IN_SCOPE",
+        "REGISTRY_NO_MATCH",
+        "DIRECT_BUILDER_WITH_VERIFIED_ARTIFACT"
+      ],
+      "research_score": 42,
+      "sector_bucket": "climate_energy",
+      "slug": "grid-defense-td1",
+      "source_queries": [
+        "q16_energy_and_climate_hardware"
+      ],
+      "unresolved_questions": []
+    }
+  ],
+  "count": 122,
+  "data_dictionary": {
+    "actor_project_relation": "Relationship between the author and the project (self, employee, unrelated).",
+    "announcement_attribution": "Who made the claim (direct builder, third party, commentary).",
+    "artifact_types": "Type of each external artifact (repository, documentation, product website, live demo).",
+    "artifact_urls": "Public product, documentation, or repository links extracted from the Post.",
+    "company_status": "Human-readable status derived from the disposition.",
+    "evidence_levels": "Evidence levels present on the Post (A strongest, D weakest).",
+    "headline_mandate_fit": "Fit with the AI Infrastructure and Software mandate.",
+    "lead_disposition": "Engine routing decision for the lead.",
+    "name": "Normalized company or project name derived by the engine.",
+    "post_url": "Direct permalink to the original public X Post.",
+    "reason_codes": "Deterministic codes explaining the disposition.",
+    "research_score": "Deterministic 0 to 100 organizing score. Not an investment score.",
+    "sector_bucket": "Sector assigned from the matching query family.",
+    "source_queries": "Query families whose results included this project."
+  },
+  "featured": [
+    {
+      "artifact_types": [
+        "product_website",
+        "github_organization"
+      ],
+      "artifact_urls": [
+        "https://unicity.network",
+        "https://github.com/unicitynetwork"
+      ],
+      "company_status": "Human-selected for focused diligence",
+      "disposition_note": "The engine organized the evidence and structured the comparison. The scorecard was a decision aid, not the decision. ScaleDown scored higher on the standardized framework. AOS was advanced by human investment judgment for focused diligence, not funded.",
+      "evidence_levels": [
+        "A",
+        "C"
+      ],
+      "is_featured": true,
+      "name": "AOS / Unicity Labs",
+      "public_facts": [
+        {
+          "claim": "USD 3.0 million seed announced February 2026",
+          "evidence_class": "company_reported"
+        },
+        {
+          "claim": "Unicity protocol (bearer-token settlement) is the live public product",
+          "evidence_class": "official_protocol_source"
+        },
+        {
+          "claim": "Public GitHub organization with multiple repositories",
+          "evidence_class": "official_protocol_source"
+        },
+        {
+          "claim": "AOS as a distinct enterprise product is a working thesis, not a confirmed brand",
+          "evidence_class": "analyst_hypothesis"
+        }
+      ],
+      "sector_bucket": "ai_infrastructure",
+      "slug": "aos-unicity-labs",
+      "summary": "Zug-based team behind the Unicity protocol, a bearer-token peer-to-peer settlement layer. AOS is the working thesis for a secure agent execution, identity, policy, and proof layer beneath autonomous agents. Selected from the comparison set by human judgment, not by an automated score.",
+      "thesis_availability": "placeholder",
+      "thesis_note": "The full investment thesis, underwriting model, and diligence playbook are maintained privately and are not published in this showcase.",
+      "unresolved_questions": [
+        "What is AOS today, and how does it relate to the Unicity protocol, the SDK, and bearer tokens?",
+        "Is there paid enterprise demand, and who is the economic buyer?",
+        "Which entity captures equity value if the protocol succeeds?",
+        "Is the announced seed still open, and when is the next financing?"
+      ]
+    }
+  ],
+  "featured_count": 1,
+  "notes": [
+    "Raw Post text, author names, usernames, author ids, and profile fields are intentionally excluded.",
+    "Only engine-derived classifications plus public permalinks and public artifact URLs are shown."
+  ],
+  "provenance": {
+    "generated_at": "2026-07-22T17:41:36Z",
+    "note": "Generated from saved completed-run outputs by build_sanitized_demo_data.py.",
+    "source_file": "actionable_candidates.json",
+    "transform_version": "1.0.0"
+  }
+}

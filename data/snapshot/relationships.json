@@ -1,0 +1,20 @@
+[
+  {
+    "id": "relationship_9f70250f9795",
+    "type": "founder_of",
+    "fromId": "founder_b2fff6afc5df",
+    "toId": "company_3cc85804c153",
+    "sourceIds": [
+      "source_593143677283"
+    ]
+  },
+  {
+    "id": "relationship_f91749351908",
+    "type": "founder_of",
+    "fromId": "founder_fa11e21fad05",
+    "toId": "company_9515547388f9",
+    "sourceIds": [
+      "source_436bf2b41ec7"
+    ]
+  }
+]

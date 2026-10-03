@@ -1,0 +1,56 @@
+{
+  "deterministic_rules": [
+    "Scoring and classification are deterministic Python. No LLM assigns a score or a disposition.",
+    "A validator rejects unsupported operators before any API call.",
+    "Time decay applies only to time-sensitive signals, never to enduring facts.",
+    "Engagement and follower counts are non-scoring and cannot advance a lead."
+  ],
+  "enrichment": {
+    "what_it_examined": [
+      "founder and executive roles",
+      "company links",
+      "identity evidence"
+    ],
+    "what_it_ignored": [
+      "follower count",
+      "verification status"
+    ],
+    "why_selective": "Only shortlisted profiles were enriched to respect the budget and to avoid unnecessary paid calls."
+  },
+  "human_decision": "The engine organized evidence and structured comparison. It did not select the investment candidate. The final decision was human judgment.",
+  "pilot_lanes": [
+    {
+      "description": "Product launches and open-source artifacts.",
+      "lane": "product_artifact"
+    },
+    {
+      "description": "Founder-transition signals such as leaving a job or building in stealth.",
+      "lane": "founder_transition"
+    },
+    {
+      "description": "Early customer or design-partner signals.",
+      "lane": "early_traction"
+    }
+  ],
+  "pipeline": [
+    "Sourcing thesis",
+    "Query configuration",
+    "Count preflight",
+    "Recent search",
+    "URL resolution",
+    "Evidence classification",
+    "Builder attribution",
+    "Deduplication",
+    "Project consolidation",
+    "Selective profile enrichment",
+    "Diligence queue",
+    "Human investment decision"
+  ],
+  "provenance": {
+    "generated_at": "2026-07-22T17:41:36Z",
+    "note": "Generated from saved completed-run outputs by build_sanitized_demo_data.py.",
+    "source_file": "queries.yaml, broad_market_queries.yaml, pipeline.py",
+    "transform_version": "1.0.0"
+  },
+  "thesis": "Early company signals surface on X before they appear in structured databases. A deterministic engine can convert a sourcing thesis into official X API queries, separate builders from commentary, verify public product artifacts, and produce an auditable diligence queue within a fixed budget."
+}

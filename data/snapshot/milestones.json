@@ -1,0 +1,242 @@
+[
+  {
+    "id": "milestone_61a4d348831c",
+    "companyId": "company_9515547388f9",
+    "type": "product_launch",
+    "headline": "E2B shipped a core SDK release (e2b@2.30.3)",
+    "date": "2026-06-19",
+    "sourceId": "source_d237100175a3"
+  },
+  {
+    "id": "milestone_f323a27ca5f7",
+    "companyId": "company_8c0eb0759cc4",
+    "type": "product_launch",
+    "headline": "Ollama released v0.12.10",
+    "date": "2025-11-05",
+    "sourceId": "source_841c4e44fef3"
+  },
+  {
+    "id": "milestone_a1c170c9c141",
+    "companyId": "company_3cc85804c153",
+    "type": "product_launch",
+    "headline": "Browserbase shipped Stagehand 1.0.3",
+    "date": "2024-11-01",
+    "sourceId": "source_f0ef27aa6266"
+  },
+  {
+    "id": "milestone_09eb923e881c",
+    "companyId": "company_2f447acb5fba",
+    "type": "product_launch",
+    "headline": "LlamaIndex released v0.11.22",
+    "date": "2024-11-05",
+    "sourceId": "source_298e8e69b7b6"
+  },
+  {
+    "id": "milestone_c41241abc96a",
+    "companyId": "company_230f468687a0",
+    "type": "product_launch",
+    "headline": "Ray shipped release 0.8.3",
+    "date": "2020-03-25",
+    "sourceId": "source_8f0097fe3d60"
+  },
+  {
+    "id": "milestone_14936b358ea9",
+    "companyId": "company_8cc9157426d4",
+    "type": "product_launch",
+    "headline": "Weaviate shipped release v1.34.15",
+    "date": "2026-02-20",
+    "sourceId": "source_91d8f2d8ac86"
+  },
+  {
+    "id": "milestone_1a4ee652ca52",
+    "companyId": "company_d6a27da6a9b0",
+    "type": "product_launch",
+    "headline": "Qdrant shipped release v0.8.3",
+    "date": "2022-06-28",
+    "sourceId": "source_41bed782618c"
+  },
+  {
+    "id": "milestone_06a1688c1c52",
+    "companyId": "company_41ee49e63bff",
+    "type": "product_launch",
+    "headline": "Chroma shipped release 0.4.8",
+    "date": "2023-08-29",
+    "sourceId": "source_5c4ea0e407a6"
+  },
+  {
+    "id": "milestone_c307ed884398",
+    "companyId": "company_5dfc2cfdb45a",
+    "type": "product_launch",
+    "headline": "vLLM shipped release v0.1.6",
+    "date": "2023-09-08",
+    "sourceId": "source_b0737fd4c822"
+  },
+  {
+    "id": "milestone_1b447a96e21d",
+    "companyId": "company_6b3d505233e9",
+    "type": "product_launch",
+    "headline": "Replicate shipped its Python client release 0.5.1",
+    "date": "2023-03-03",
+    "sourceId": "source_f3ed687c50ea"
+  },
+  {
+    "id": "milestone_132b64504f27",
+    "companyId": "company_ff722ae48bac",
+    "type": "product_launch",
+    "headline": "Supabase shipped release 0.21.03",
+    "date": "2021-04-06",
+    "sourceId": "source_7e1a2893867e"
+  },
+  {
+    "id": "milestone_432258eb3cbf",
+    "companyId": "company_b8927b2d9140",
+    "type": "product_launch",
+    "headline": "PostHog shipped a desktop release (v0.61.621)",
+    "date": "2026-10-01",
+    "sourceId": "source_5b1e11035e99"
+  },
+  {
+    "id": "milestone_efb9a9df8245",
+    "companyId": "company_db1ae7c5baf0",
+    "type": "product_launch",
+    "headline": "Neon shipped a proxy release (release-proxy-7431)",
+    "date": "2025-01-30",
+    "sourceId": "source_8df3dcc5885e"
+  },
+  {
+    "id": "milestone_cd23b58242b4",
+    "companyId": "company_591c8c5d97bb",
+    "type": "product_launch",
+    "headline": "Convex shipped a precompiled backend release",
+    "date": "2026-08-25",
+    "sourceId": "source_68072f043762"
+  },
+  {
+    "id": "milestone_06fe3e75de89",
+    "companyId": "company_d3b5abbdef3d",
+    "type": "product_launch",
+    "headline": "LangChain shipped langchain-model-profiles 0.0.6",
+    "date": "2026-06-11",
+    "sourceId": "source_24fc8c1089f0"
+  },
+  {
+    "id": "milestone_2e7ed77d7cc8",
+    "companyId": "company_543769ec3709",
+    "type": "product_launch",
+    "headline": "CrewAI shipped release 1.10.0",
+    "date": "2026-02-27",
+    "sourceId": "source_8fa18e3cc490"
+  },
+  {
+    "id": "milestone_66b7ea98f02f",
+    "companyId": "company_d027b1e81455",
+    "type": "product_launch",
+    "headline": "Dify shipped release 0.6.4",
+    "date": "2024-04-22",
+    "sourceId": "source_2b294c085cd7"
+  },
+  {
+    "id": "milestone_b717c254c44c",
+    "companyId": "company_30e09010bfaf",
+    "type": "product_launch",
+    "headline": "Continue shipped release v1.5.29",
+    "date": "2025-12-24",
+    "sourceId": "source_e80a1432b10c"
+  },
+  {
+    "id": "milestone_54cfc8ed7fe5",
+    "companyId": "company_60f5707c6d66",
+    "type": "product_launch",
+    "headline": "Aider shipped release v0.5.0",
+    "date": "2023-06-07",
+    "sourceId": "source_b4eb263f13c7"
+  },
+  {
+    "id": "milestone_e8f6ddf054b4",
+    "companyId": "company_21cef5dc350c",
+    "type": "product_launch",
+    "headline": "Lago shipped release v0.57.1-beta",
+    "date": "2024-03-04",
+    "sourceId": "source_09f2fd8759c0"
+  },
+  {
+    "id": "milestone_83cf92d6b60f",
+    "companyId": "company_9a0ff55110c7",
+    "type": "product_launch",
+    "headline": "Midday shipped app release v0.1.0",
+    "date": "2025-06-10",
+    "sourceId": "source_7c9c2b314781"
+  },
+  {
+    "id": "milestone_3396afec0cef",
+    "companyId": "company_ff722ae48bac",
+    "type": "financing",
+    "headline": "Supabase raised a $500M Series F at a $10B pre-money valuation, led by GIC",
+    "date": "2026-06-05",
+    "sourceId": "source_55a60c71f150"
+  },
+  {
+    "id": "milestone_e1fb05d17df1",
+    "companyId": "company_8cc9157426d4",
+    "type": "partnership",
+    "headline": "Ricoh announced a strategic investment and partnership with Weaviate via the RICOH Innovation Fund",
+    "date": "2026-06-16",
+    "sourceId": "source_eb368c80fe76"
+  },
+  {
+    "id": "milestone_60830b45a718",
+    "companyId": "company_d6a27da6a9b0",
+    "type": "financing",
+    "headline": "Qdrant raised a $50M Series B led by AVP to build composable vector search infrastructure",
+    "date": "2026-03-12",
+    "sourceId": "source_c3d35ddbade0"
+  },
+  {
+    "id": "milestone_cf5b5ab08d35",
+    "companyId": "company_6b3d505233e9",
+    "type": "acquisition",
+    "headline": "Cloudflare announced it will acquire Replicate to build an AI cloud for developers",
+    "date": "2025-11-17",
+    "sourceId": "source_cf816034c1a9"
+  },
+  {
+    "id": "milestone_7d75d4595c39",
+    "companyId": "company_aa44ed7650c6",
+    "type": "financing",
+    "headline": "Modal raised a $80M+ Series B led by Lux Capital at a $1.1B post-money valuation",
+    "date": "2025-09-29",
+    "sourceId": "source_227627a619d0"
+  },
+  {
+    "id": "milestone_4f2b4d90a66b",
+    "companyId": "company_3cc85804c153",
+    "type": "financing",
+    "headline": "Browserbase raised a $40M Series B led by Notable Capital and launched Director",
+    "date": "2025-06-18",
+    "sourceId": "source_593143677283"
+  },
+  {
+    "id": "milestone_38ba2e52788e",
+    "companyId": "company_9515547388f9",
+    "type": "financing",
+    "headline": "E2B raised a $21M Series A led by Insight Partners to scale AI sandbox infrastructure",
+    "date": "2025-07-28",
+    "sourceId": "source_436bf2b41ec7"
+  },
+  {
+    "id": "milestone_332439021705",
+    "companyId": "company_d3b5abbdef3d",
+    "type": "financing",
+    "headline": "LangChain raised a $125M Series B led by IVP at a $1.25B valuation",
+    "date": "2025-10-20",
+    "sourceId": "source_b6e4c6d3b455"
+  },
+  {
+    "id": "milestone_a12881263d8a",
+    "companyId": "company_543769ec3709",
+    "type": "financing",
+    "headline": "CrewAI raised $18M across an inception round and a Series A led by Insight Partners",
+    "date": "2024-11-04",
+    "sourceId": "source_943f56fc089f"
+  }
+]
